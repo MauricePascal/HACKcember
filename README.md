@@ -1,5 +1,5 @@
 # HACKcember Lösungen
-HACKcember ist ein von [Algorithmen verstehen](https://www.youtube.com/channel/UCswWBF6ZkGnLG3sLRR65xRw) ins Leben gerufenes Event, in dem man verschiedene Challenges muss, um Zugang zu extra Videos zu Themen rund ums Hacking zu erhalten.
+HACKcember ist ein von [Algorithmen verstehen](https://www.youtube.com/channel/UCswWBF6ZkGnLG3sLRR65xRw) ins Leben gerufenes Event, in dem man verschiedene Challenges muss lösen, um Zugang zu extra Videos zu Themen rund ums Hacking zu erhalten.
 
 Das Repository ist unterteilt in Ordner mit Jahreszahlen (da das Event vorraussätzlich nächstes Jahr auch stattfindet) mit Unterordnern, die jeweils nach ihrem "Türchen" benannt sind.
 
